@@ -9,5 +9,10 @@ int main(void) {
     hword *ptr = (hword *)INIT;
     *ptr = 0x0F03;
 
+    //描画、その他の関数の出力を用いて
+    while(1) {
+
+    }
+
     return 0;
 }
